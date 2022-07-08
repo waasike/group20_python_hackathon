@@ -16,8 +16,8 @@ Task(iii) Using today's date to get the name on the day of the week written in s
 Task(iv) Use indexing [0:3] to make the day of the week written in short form ✔️
 Task(v) Make a variable 'weekdays' and make a list of weekdays ✔️
 Task(iv) Using if statements to determine the bus fare ✔️
- ✔️
- ✔️
+
+
 2. SALES TAX CHALLENGE - Task Two (Day 1)
 
 Task(i) Creating a user input for square footage ✔️
