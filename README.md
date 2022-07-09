@@ -20,17 +20,17 @@ Task(iv) Using if statements to determine the bus fare ✔️
 
 2. SALES TAX CHALLENGE - Task Two (Day 1)
 
-Task(i) Creating a user input for square footage ✔️
-Task(ii) Creating a user input for price per gallon ✔️
-Task(iii) Creating different variables and assigning them to a value ✔️
+Task(i) Defining a main function
+Task(ii) Creating a user input for square footage ✔️
+Task(iii) Creating a user input for price per gallon ✔️
+Task(iv) Creating different variables and assigning them to a value ✔️
 Task(iv) Printing out the total estimated price for the paint job ✔️ 
 
 
 3. PERSONALITY TEST PROGRAM - Task One (Day 2)
 
-(i) Creating a user input for the number of books purchased ✔️
-(ii) Using if statments to determine the number of points awarded ✔️
-
+Task(i) Creating a user input for the number of books purchased ✔️
+Task(ii) Using if statments to determine the number of points awarded ✔️
 
 
 4. CHALLENGE - Task Two (Day 2)
@@ -41,26 +41,25 @@ Task(iv) Printing out the total estimated price for the paint job ✔️
 
 5. DOOR LOCK SYSTEM CHALLENGE – Task One (Day 3)
 
-(i) Importing current date time ✔️
-(ii) Storing the 'previous date' in a variable ✔️
-(iii) Assigniing the variable password a value ✔️
-(iv) Assigning the variables for commands for the door values ✔️
-(v) Creaing a user input for entering the password ✔️
-(vi) Creating a while loop for the incorrect password ✔️
-(vii) Creeating an eles statement for when the password is correctly entered ✔️
-(viii) Creating a user input for entering the first command ✔️
-(ix) Creating if-elif  statements for the first time command ✔️
-(x) Creating a user input for entering the second command ✔️
-(xi) Creating if- elif statements for th second time command + Nesting if-else statements inside if-elif statements ✔️
-
+Task(i) Importing current date time ✔️
+Task(ii) Storing the 'previous date' in a variable ✔️
+Task(iii) Assigniing the variable password a value ✔️
+Task(iv) Assigning the variables for commands for the door values ✔️
+Task(v) Creaing a user input for entering the password ✔️
+Task(vi) Creating a while loop for the incorrect password ✔️
+Task(vii) Creeating an eles statement for when the password is correctly entered ✔️
+Task(viii) Creating a user input for entering the first command ✔️
+Task(ix) Creating if-elif  statements for the first time command ✔️
+Task(x) Creating a user input for entering the second command ✔️
+Task(xi) Creating if- elif statements for th second time command + Nesting if-else statements inside if-elif statements ✔️
 
 
 6. CHALLENGE TASK TWO (Day 3)   
-(i) Creating a user input for entering number of fat grams and  carbohydrate grams consumed in a day ✔️
-(ii) Creating a variable of calories from fat ✔️
-(iii) Printing out the calories from fat ✔️
-(iv) Creating a variable of calories from carbohydrates ✔️
-(v) Printing out the calories from carbohydrates ✔️
+Task(i) Creating a user input for entering number of fat grams and  carbohydrate grams consumed in a day ✔️
+Task(ii) Creating a variable of calories from fat ✔️
+Task(iii) Printing out the calories from fat ✔️
+Task(iv) Creating a variable of calories from carbohydrates ✔️
+Task(v) Printing out the calories from carbohydrates ✔️
 
 
 
