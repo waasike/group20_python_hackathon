@@ -1,10 +1,17 @@
 # CHALLENGE - Task Two (Day 2) 
 # This question was quite vage for us to understand but we just used some of the knowledge we had in python to hack it !
+print("THE CAREER QUESTIONS:")
 print("Q1.Which career deals with study of computers and computing as well as their theoretical and practical applications? \n")
 print("Q2.Which career deals with developing strategies for analyzing data, preparing data for analysis \n")
 print("Q3.Which career deals with application of principles used in the field of engineering and management of software systems \n")
 print("Q4.Which career deals with developing a website for the Internet \n")
 print("Q5.Which career deals with set of technologies that protects the usability and integrity of a company's infrastructure ")
+
+print("CAREER ADVICES")
+print("Pick a career based on your interests")
+print("Pick a career based on your ability")
+print("Pick a career based on set financial goals (salary)")
+
 
 user_input = input("Enter your career question number based on the questions above")
 

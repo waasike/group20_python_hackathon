@@ -34,7 +34,13 @@ Task(ii) Using if statments to determine the number of points awarded ✔️
 
 
 4. CHALLENGE - Task Two (Day 2)
-
+Task(i) Printing out all carrier question for the user
+Task(ii) Printing out all career advices for the user
+Task(iii) Creating a user input for the carrier questions
+Task(iv) Storing carrier options in variables
+Task(v) Storing career advices in a list
+Task(vi) Storing career questions in a list
+Task(vii) Using if statments to determine the career option of the user
 
 
 
