@@ -6,7 +6,7 @@ This project was created by the following group members:
 3. Joseph Nalobile
 4. Edith Olali
 
-#Analysis for the tasks for differnet projects.
+#Analysis for the tasks for differenet projects.
 
 1. BUS FARE CHALLENGE - Task One (Day 1)
 
