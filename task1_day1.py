@@ -1,5 +1,5 @@
 # BUS FARE CHALLENGE - Task One (Day 1)
-import datetime 
+import datetime
 
 date = datetime.datetime.now()
 day = date.strftime("%A")[0:3]
